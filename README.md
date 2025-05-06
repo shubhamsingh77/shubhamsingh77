@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @shubhamsingh77
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Shubham Singh!
 
-<!---
-shubhamsingh77/shubhamsingh77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer who loves building things with code. I specialize in **Java**, and I'm always exploring new technologies to expand my skill set.
+
+## 🚀 Tech Stack
+
+- **Languages:** Java
+- **Databases:** MySQL ,Oracle SQL
+- **Frontend:** Html ,CSS
+- **Tools:** Git, VS Code, IntelliJ IDEA,Jira
+
+## 📫 Get in Touch
+
+- 📧 Email: shanusingh301@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/shubhamsingh7
+- 🌐 Portfolio: https
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Thanks for stopping by! 🙌
